@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 
 // Grid size
-const ROWS = 20;
-const COLS = 20;
+const ROWS = 24;
+const COLS = 24;
 
 // Directions for neighbors
 const DIRECTIONS = [
